@@ -92,3 +92,6 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir uma *issue
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+## 🖼️ Captura de Tela de esquema de projeto
+
+![Esquema de projeto](https://github.com/lucaslmp2/Cortina-Inteligente/blob/main/SquemaVirtual.png)
